@@ -1,0 +1,12 @@
+tr th{
+		background-color: blue;
+		color: white;
+		border: none;
+		font-size: 20px;
+	}
+
+tr td{
+		padding: 10px;
+		font-size: 18px;
+     }
+
